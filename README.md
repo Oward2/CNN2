@@ -11,13 +11,17 @@ To reproduce this project, you will need:
 - pip
 - Jupyter Notebook
 - Git
+- data
+
 
 The project was completed using a Jupyter Notebook running on an `ipykernel` within a Python virtual environment.
 
 ## Linux Setup
 
 To reproduce the project, follow these instructions:
-
+0. install all requirments and retireve data from https://drive.google.com/drive/folders/1NWC3TMsXSWN2TeoYMCjhf2N1b-WRDh-M
+notebook will describe required data format
+ 
 1. **Clone the repository from GitHub.**
 
 2. **Navigate into the cloned repository** and create a Python virtual environment:
