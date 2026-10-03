@@ -72,6 +72,18 @@ You may use a different name for the virtual environment if desired.
 
 10. The notebook can now be executed using the installed dependencies. The provided checkpoints in the `checkpoint` folder can also be used to restore previously trained models.
 
+
+Note for a shorter list of requirements the following can be used for install i fnot using linux more specifically Fedora Linux:
+
+torch
+torchvision
+numpy
+matplotlib
+Pillow
+jupyter
+ipykernel
+scikit-learn
+
 ```
 ```
 
